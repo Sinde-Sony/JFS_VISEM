@@ -1,6 +1,7 @@
 class Example
 {
 	public static void main{String[] args){
-		System.out.print("hello SKILLNEXT -1");
+		System.out.println("hello SKILLNEXT -1");
+		System.out.println("Day 1: practise");
 	}
 }
